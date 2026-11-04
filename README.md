@@ -11,3 +11,7 @@ Este repositorio fue creado para aprender el flujo básico de Git y GitHub.
 ## Autor
 
 Kleber Landívar
+
+## Estado
+
+Proyecto conectado correctamente con GitHub.
