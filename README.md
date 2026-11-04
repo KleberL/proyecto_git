@@ -15,3 +15,7 @@ Kleber Landívar
 ## Estado
 
 Proyecto conectado correctamente con GitHub.
+
+## Clonación
+
+Este repositorio también fue clonado correctamente desde GitHub.
